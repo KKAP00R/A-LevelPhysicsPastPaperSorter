@@ -17,3 +17,6 @@ In the case of a vulnerability send an Email to - karan-kapoor@outlook.com descr
 
 Vulnerabilities reported will be taken into consideration and tested immediately, following testing if the vulnerability is true and serious, the version on which the vulnerability is detected will be deleted.
 In the upcoming 2-3 weeks a new stable version will be uploaded
+
+Thank you for choosing to use my code.
+KKaps-code
